@@ -104,7 +104,7 @@ Lowering the threshold to 0.3 cuts missed cases from 12 to 5 at the cost of 13 e
 
 ```bash
 git clone https://github.com/ayushig-healthtech/Heart_Disease_Prediction.git
-cd heart-disease-prediction
+cd Heart_Disease_Prediction
 python -m venv .venv
 # Windows: .venv\Scripts\activate    macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
